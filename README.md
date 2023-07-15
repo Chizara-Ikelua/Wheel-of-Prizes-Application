@@ -10,7 +10,7 @@ Before running the game make sure you have the following installed:
 1. Open your terminal on visual studio code and navigate to the project directory
 2. Next, run the following command on the terminal to install the dependencies:
 
-    npm install
+        npm install
 
 ### Writing the Code
 The code includes various functions that make different aspects of the game work. 
