@@ -168,6 +168,6 @@ deposit -> number of lines -> bet amount -> spin -> print rows -> calcuate winni
 
 ### Practical Dispay of how the game works 
 
-![Slot Machine Game]("C:\Users\jacks\OneDrive\Desktop\software projecs\slotmachine\practicaldisplayofgame.png") 
+![Slot machine](practicaldisplayofgame.png)
 
 
