@@ -156,7 +156,7 @@ const game = () => {
              break;
             }
 
-            const playAgain = prompt ("Would you like to play again (y/n)? ");
+            const playAgain = promt("Would you like to play again (y/n)? ");
 
             if (playAgain != "y") break;
 

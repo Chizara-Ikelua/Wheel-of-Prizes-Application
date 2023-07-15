@@ -164,5 +164,10 @@ The above code starts by definig the constanrs fr the number of rows, columns, s
 Then the code defines each of the functions mentioned above. thesefunctions handle input validation, random symbol selection, calculations and printing. 
 
 After the funtion are defined,the'game()' function is called to start the game loop. The user is then prompted to enter a deposit amount, and then the game will continue unti te user runs outof money or deccides o stop playing. Each iteration of the game follows this sequencee: 
-deposit -> number of lines -> bet amount -> spin -> print rows -> calcuate winnings -> update balance -> check if the user wants to play again. 
+deposit -> number of lines -> bet amount -> spin -> print rows -> calcuate winnings -> update balance -> check if the user wants to play again.
+
+### Practical Dispay of how the game works 
+
+![Slot Machine Game](C:\Users\jacks\OneDrive\Desktop\software projecs\slot machine\practical display of game.png) 
+
 
