@@ -76,7 +76,7 @@ The code includes various functions that make different aspects of the game work
             }
         }
         return reels;
-    };
+        };
 
 5. 'transpose(reels)': This transposes the reels matrix to group symbols by row instead of by column. It then returns a new matrix representing the rows of symbols. 
         const transpose = (reels) => {
