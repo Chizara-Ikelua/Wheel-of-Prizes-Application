@@ -56,8 +56,7 @@ The code includes various functions that make different aspects of the game work
     };
 
 4. 'spin()': This simulates the spinning of the slot machine reels. It will randomly select symbols for each reel and return the resulting reel.
- 
-    const spin = () => {
+        const spin = () => {
         const symbols = [];
         for (const [symbol, count] of Object.entries(SYMBOLS_COUNT)) {
             for (let i = 0; i < count; i++) {
