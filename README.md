@@ -166,8 +166,6 @@ Then the code defines each of the functions mentioned above. thesefunctions hand
 After the funtion are defined,the'game()' function is called to start the game loop. The user is then prompted to enter a deposit amount, and then the game will continue unti te user runs outof money or deccides o stop playing. Each iteration of the game follows this sequencee: 
 deposit -> number of lines -> bet amount -> spin -> print rows -> calcuate winnings -> update balance -> check if the user wants to play again.
 
-### Practical Dispay of how the game works 
 
-![Slot machine](practicaldisplayofgame.png)
 
 
