@@ -160,12 +160,12 @@ The code includes various functions that make different aspects of the game work
     };
 
 ### Codes Explained
-The above code starts by definig the constanrs fr the number of rows, columns, symbo counts, and symbol  values used in the game. 
+The above code starts by defining the constraints for the number of rows, columns, symbol counts, and symbol values used in the game. 
 
-Then the code defines each of the functions mentioned above. thesefunctions handle input validation, random symbol selection, calculations and printing. 
+Then the code defines each of the functions mentioned above. These functions handle input validation, random symbol selection, calculations and printing. 
 
-After the funtion are defined,the'game()' function is called to start the game loop. The user is then prompted to enter a deposit amount, and then the game will continue unti te user runs outof money or deccides o stop playing. Each iteration of the game follows this sequencee: 
-deposit -> number of lines -> bet amount -> spin -> print rows -> calcuate winnings -> update balance -> check if the user wants to play again.
+After the function is defined,the'game()' function is called to start the game loop. The user is then prompted to enter a deposit amount, and then the game will continue until the user runs out of money or decides o stop playing. Each iteration of the game follows this sequence: 
+deposit -> number of lines -> bet amount -> spin -> print rows -> calculate winnings -> update balance -> check if the user wants to play again.
 
 
 
